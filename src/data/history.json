@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Technical Assistant",
+    "organisation": "Ingeniums",
+    "startDate": "Sep, 2023",
+    "endDate": "present",
+    "experiences": ["Nothing To See here yet"],
+    "imageSrc": "history/work.png"
+  },
+  {
+    "role": "Designer",
+    "organisation": "Ingeniums",
+    "startDate": "Apr, 2022",
+    "endDate": "Aug, 2023",
+    "experiences": [
+      "Designed Multiple Artworks",
+      "Helped organize Several Events "
+    ],
+    "imageSrc": "history/design.png"
+  }
+]
+

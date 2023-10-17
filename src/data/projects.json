@@ -1,0 +1,29 @@
+[
+  {
+    "pr_id":1,
+    "title": "Travel_App",
+    "imageSrc": "projects/travel.png",
+    "description": "This is a project made to bring to life an idea thats always been in my head.",
+    "skills": ["NextJS", "React", "Tailwind"],
+    "demo": "https://asterix-eight-flame.vercel.app/",
+    "source": "https://github.com/Chaelsoo/Travel_App"
+  },
+  {
+    "id":2,
+    "title": "Promptopia",
+    "imageSrc": "projects/promptopia.png",
+    "description": "I made this to learn and practice my skills and develop my Web knowledge .",
+    "skills": ["NextJS", "React", "Authjs"],
+    "demo": "https://promptia-seven.vercel.app/",
+    "source": "https://github.com/Chaelsoo/Promptia"
+  },
+  {
+    "id":3,
+    "title": "Image Gallery",
+    "imageSrc": "projects/image.jpg",
+    "description": "This is a project made to learn and deal with APIs.",
+    "skills": ["React", "NextJS", "Tailwind"],
+    "demo": "https://image-gallery-chaelsoo.vercel.app/",
+    "source": "https://github.com/Chaelsoo/Image_Gallery"
+  }
+]
